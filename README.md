@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone</h1> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h1 align="center">Hi Everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1> 
 
 <hr>
 
