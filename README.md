@@ -2,7 +2,7 @@
 
 <hr>
 
-### My Name Is Muhammad Farhan Fathurrohman <br>
+<h2 align="center"> I'm Muhammad Farhan Fathurrohman </h2><br>
 
 I'm an **Android Enthusiast** 
 
