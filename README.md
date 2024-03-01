@@ -17,7 +17,6 @@ I'm an **Android Enthusiast**
 <p align="left">
   
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/farhan-fathur)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/nahraf_)
 
 </p>
 
