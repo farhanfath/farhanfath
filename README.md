@@ -16,8 +16,8 @@ I'm an **Android Enthusiast**
 <h3 align="left">Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="10%" height="10%"></h3>
 <p align="left">
   
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://discord.gg/nahraf_)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://linkedin.com/in/farhan-fathur)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/farhan-fathur)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/nahraf_)
 
 </p>
 
