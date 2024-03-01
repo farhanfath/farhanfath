@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, Everyone</h1>
+<h1 align="center">Hi Everyone</h1> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <hr>
 
-My Name Is Muhammad Farhan Fathurrohman <br>
+### My Name Is Muhammad Farhan Fathurrohman <br>
 
 I'm an **Android Enthusiast** 
 
