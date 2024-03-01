@@ -15,8 +15,10 @@ I'm an **Android Enthusiast**
 
 <h3 align="left">Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="10%" height="10%"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/farhan-fathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-fathur" height="30" width="40" /></a> 
-<a href="https://discord.gg/nahraf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nahraf_" height="30" width="40" /></a>
+  
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://discord.gg/nahraf_)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://linkedin.com/in/farhan-fathur)
+
 </p>
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%" height="5%"></h3>
