@@ -31,4 +31,4 @@ I'm an **Android Enthusiast**
 </a>
 </p>
 
-[![farhanfath WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farhanfath)](https://github.com/farhanfath)
+[![farhanfath WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farhanfath)](https://github.com/farhanfath&theme=algolia)
