@@ -30,3 +30,5 @@ I'm an **Android Enthusiast**
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfath&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+[![farhanfath WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farhanfath)](https://github.com/farhanfath)
