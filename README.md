@@ -20,6 +20,6 @@ I'm an **Android Enthusiast**
 
 ## 🎯 Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanfath&show_icons=true&theme=tokyonight)](https://github.com/farhanfath)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanfath&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/farhanfath)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfath&layout=compact&theme=tokyonight"/>
 
