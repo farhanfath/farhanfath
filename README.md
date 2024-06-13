@@ -13,8 +13,13 @@ I'm an **Android Enthusiast**
 
 - 📫 How to reach me **farhanfathur73@gmail.com**
 
-<h3 align="left">Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="10%" height="10%"></h3>
+<h3 align="left">🙋‍♂️ Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="10%" height="10%"></h3>
 <p align="left">
   
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/farhan-fathur)
+
+## 🎯 Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanfath&show_icons=true&theme=tokyonight)](https://github.com/farhanfath)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfath&layout=compact&theme=tokyonight"/>
 
