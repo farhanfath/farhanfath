@@ -7,7 +7,7 @@
 I'm an **Android Enthusiast** 
 
 
-- 🔭 I’m currently Study on [Bangkit Academy 2024](https://www.dicoding.com/)
+<!-- - 🔭 I’m currently Study on [Bangkit Academy 2024](https://www.dicoding.com/) -->
 
 - 🌱 I’m currently learning **Kotlin**
 
